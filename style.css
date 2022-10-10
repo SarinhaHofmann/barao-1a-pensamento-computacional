@@ -5,19 +5,19 @@ body {
 .capa  {
     width:100%;
 }
-    .beneficios {
+.beneficios {
         text-align: left;
         background-color: rgba(4, 65, 116, 0.986);
-    }
-    ul {
+}
+ul {
         display: inline-block;
         vertical-align: top;
         margin-right: 500px;
-    }
-    li {
+}
+li {
         padding: 15px;
-        font-size: 26px;
-    }
-    .foto-beneficios {
-        width: 500%;
+        font-size: 27px;
+}
+.imagem-beneficio {
+        width: 40%;
     }
