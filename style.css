@@ -1,13 +1,13 @@
 body {
     text-align: center;
-    background: rgba(0, 162, 255, 0.863)
+    background: rgba(255, 196, 0, 0.993)
 }
 .capa  {
     width:100%;
 }
 .beneficios {
         text-align: left;
-        background-color: rgba(4, 65, 116, 0.986);
+        background-color: rgba(245, 169, 6, 0.986);
 }
 ul {
         display: inline-block;
